@@ -2,7 +2,7 @@
 Counter-Strike 1.6 Hack Source
 Original Project: Far Aimbot 0.5
 --------------------------------
-Author: WithCreative & HLRTeam
+Author: WithCreative & HLRTeam<br>
 Created: HLRTeam
 Updated: WithCreative & 10.12.2017
 Extras: RobinLoader [DLL Injector] by WithCreative
